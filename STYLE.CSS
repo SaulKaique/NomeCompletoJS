@@ -1,0 +1,20 @@
+html{
+        height: 100%;
+
+
+
+}
+
+body{
+        background-image: linear-gradient(to bottom, rgb(26, 26, 233),rgb(141, 58, 236),rgb(15, 14, 14));
+
+
+}
+
+#botao{
+        position: relative;
+    background-image: url(https://i.gifer.com/Omde.gif);
+    font-size: 100px;
+    left: 500px;
+
+}
